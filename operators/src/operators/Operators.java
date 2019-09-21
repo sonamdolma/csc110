@@ -27,7 +27,7 @@ public class Operators {
       // converting the user input feet into inches
       int b = f * o; 
        
-      // adding conveted feet with the users input in inches
+      // adding converted feet with the users input in inches
       int p = b + u;
       
       //converting the inches to cm
