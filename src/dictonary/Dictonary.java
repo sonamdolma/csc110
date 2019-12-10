@@ -36,20 +36,20 @@ public class Dictonary {
        W2.setDefinition("achieve without great aeffort");
        W2.setSynonyms("noeffort");
        
-       Word W3 = new Word();
+       W3 = new Word();
        W3.setName("friends");
        W3.setAntonyms("enemies");
        W3.setDefinition("the person who knows you  the best");
        W3.setSynonyms("companion");
        
        
-       Word W4 = new Word();
+       W4 = new Word();
        W4.setName("hard");
        W4.setAntonyms("easy");
        W4.setDefinition("acieve with great effort");
        W4.setSynonyms("great effort");
        
-       Word W5 = new Word(); 
+       W5 = new Word(); 
        W5.setName("fight");
        W5.setAntonyms("getting along");
        W5.setDefinition("not happy with eachother");
